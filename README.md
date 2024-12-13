@@ -1,7 +1,7 @@
 # ITMO_DS
 
 В настоящем репозитории находятся решения задания по курсу ИТМО 
-гр.124/14 - Программа "Python для анализа данных"
+гр.124/14 - [Программа "Python для анализа данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main)
 
 
 [1. Дисциплина "Основы программирования и алгоритмизации"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/01_Base), доцент Осипов Никита Алексеевич:											
@@ -13,3 +13,4 @@
  - [р2](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/work_dt.py)
  - [dC](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/demoCost_задание.py)
  - [Y](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/Year_постановка%20задачи.py)
+ - [р3](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/conditional.py)
