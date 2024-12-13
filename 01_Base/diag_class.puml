@@ -1,0 +1,56 @@
+@startuml
+title "Онтология ПР"
+
+class "пользователь" as user #LightGray{
+    name: String
+    surname: String
+}
+class "сотрудник" as in_company #SkyBlue{
+    idCompany: String
+}
+class "не сотрудник" as out_company #LightSalmon{
+    nameCompany: String
+    numberContract: String
+}
+class "бизнес-аналитик" as b_analyst #GreenYellow{
+    position: String 
+}
+class "системный администратор" as s_admin #Yellow{
+    position: String 
+}
+class "региональный менеджер" as r_manager #LightPink{
+    position: String 
+}
+
+class "Отсек" as devicion{
+    idDivision: String
+    numberCustomers: Integer
+    efficencyByLastMonth: Double
+    isIncludeInStudy: Boolean
+}
+class "Товар" as product{
+    isForChild: Boolean
+    isSweet: Boolean
+    isSourMilk: Boolean
+    isShortTerm: Boolean
+    price: Double
+    wieght: Double
+
+
+}
+class "Полка" as grocery_shelves{
+    level: integer
+    levelOfVisualisation: String
+}
+
+
+user --|> in_company
+user --|> out_company
+
+in_company --|> b_analyst
+in_company --|> s_admin
+out_company --|> r_manager
+
+devicion --*grocery_shelves
+grocery_shelves --> product
+@enduml

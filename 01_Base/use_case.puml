@@ -1,0 +1,42 @@
+@startuml
+title "Варианты использования ПР"
+
+
+actor "сотрудник" as in_company #blue
+actor "не сотрудник" as out_company #red
+actor "бизнес-аналитик" as b_analyst #green
+actor "системный администратор" as s_admin #Yellow
+actor "региональный менеджер" as r_manager #HotPink
+
+usecase "Регистрация" as Registration #HotPink
+usecase "Презентация" as Presentation #green
+usecase "Проведение АБ теста" as AbTestPerform
+usecase "Администрирование" as Administration #Yellow
+usecase "Формирование отчета" as Report #green
+usecase "Формирование презентации" as PrepPresentation #green
+usecase "Предложение решения" as Proposition
+usecase "Интеграция решения" as Integrtion
+
+
+in_company -> b_analyst
+in_company -> s_admin
+out_company --> (Registration) 
+(Registration)--> r_manager
+b_analyst --> (AbTestPerform)
+b_analyst --> (Report)
+b_analyst --> (PrepPresentation)
+(PrepPresentation) --|> (Presentation) :include
+(Report) --|>  (Presentation) :include
+b_analyst -> (Proposition)
+r_manager -> (Proposition)
+s_admin --> (AbTestPerform)
+(Proposition) --> (Integrtion)
+s_admin --> (Integrtion)
+b_analyst --> (Integrtion)
+s_admin --> (Administration)
+(Presentation)-->(Proposition)
+(Integrtion) --> (AbTestPerform)
+(AbTestPerform) --> (PrepPresentation)
+(AbTestPerform) --> (Report) 
+
+@enduml
