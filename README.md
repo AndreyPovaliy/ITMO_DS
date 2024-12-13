@@ -15,7 +15,7 @@
  - [Y](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/Year_постановка%20задачи.py)
  - [р3](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/conditional.py)
  - [П2 не выполнено]()
- - [р4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/conditional.py)
+ - [р4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/cycles.py)
  - [р5 не выполнено ](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_Base/list_dict.py)
  - [П3 не выполнено]()
  - [р6 не выполнено]()
