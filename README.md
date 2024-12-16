@@ -19,5 +19,5 @@
  - [р5 new](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/list_dict.py)
  - [П3 не выполнено]()
  - [р6 new](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/functions.py)
- - [р7 не выполнено](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/random_statistics.py)
+ - [р7 new](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/random_statistics.py)
  - [П4 не выполнено]()
