@@ -68,8 +68,32 @@ for day in week:
   revenue.append(daily_revenue)
 
 print(sorted(revenue))
+
+
 '''
 Упражнение 4.2 (контрольное) Форматирование по уровню
 '''
+# Напишите программу, в которой создайте список случайно сгенерированных
+# чисел от 1 до 100. На основе этого списка создайте второй, который будет содержать
+# слова “High” ("высокий”) или “Low” ("низкий") в зависимости от того, больше или
+# меньше соответствующее число исходного списка некого порогового значения
+# (само значение порога должно вводится пользователем).
+import random
+
+random_numbers = []
+threshold_value = int(input("Введите пороговое число: "))
+threshold_iterpretation = []
 
 
+for random_number in range(99):
+  random_number = random.randint(0, 100)
+  random_numbers.append(random_number)
+  
+  if (random_number > threshold_value):
+    threshold_iterpretation.append("High")
+  else:
+    threshold_iterpretation.append("Low")
+    
+    
+print(random_numbers)
+print(threshold_iterpretation)
