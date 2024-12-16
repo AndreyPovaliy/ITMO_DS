@@ -18,6 +18,6 @@
  - [р4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/cycles.py)
  - [р5 new](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/list_dict.py)
  - [П3 не выполнено]()
- - [р6 не выполнено](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/functions.py)
+ - [р6 new](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/functions.py)
  - [р7 не выполнено]()
  - [П4 не выполнено]()
