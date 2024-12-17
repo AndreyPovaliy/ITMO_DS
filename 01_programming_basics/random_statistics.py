@@ -21,7 +21,7 @@ print(random.randint(1, 21)) # целое число в диапазоне 1 <= 
 random_list = []
 number_list = int(input("Сколько элементов в списке надо?"))
 
-for item in range(number_list-1):
+for item in range(number_list):
   item = random.randint(0, 1)
   random_list.append(item)
 
@@ -127,7 +127,7 @@ from statistics import median,mode,stdev
 temp_list = []
 n = 100
 
-for item in range(n-1):
+for item in range(n):
   item = random.uniform(36.2, 37.9)
   temp_list.append(item)
   
