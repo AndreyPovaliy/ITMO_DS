@@ -24,4 +24,4 @@
  - [П2-П4 реализация полки магазин](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/program_step.py)
  
 [2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development), ст. Ямщиков Денис Викторович:	
-- [ЛАБОРАТОРНАЯ РАБОТА 1-1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/02_db_development/lesson_1)
+- [ЛАБОРАТОРНАЯ РАБОТА 1-1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
