@@ -1,1 +1,1 @@
-psql demo
+psql demo -c 'SELECT * FROM bookings.aircrafts_data;' > /Users/andreypovaliy/Documents/Education/ITMO_DS/ITMO_DS/02_db_development/lesson_1/outpudata.txt
