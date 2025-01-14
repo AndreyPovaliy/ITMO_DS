@@ -232,4 +232,91 @@ AS SELECT
     customerlastname
 FROM "CustomerDetails".customers;
 
+-- проверка встроенной таблицы
+SELECT * FROM tmp_customers;
+
+-- удалить из созданной таблицы запись для customerid = 4:
+DELETE FROM tmp_customers
+WHERE customerid = 4;
+
+-- вставить данные
+INSERT INTO tmp_customers
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+-- Удаление строки.
+DELETE FROM tmp_customers
+WHERE customerid IS NULL;
+
+-- Столбец "customerid" отношения "tmp_customers" должен быть объявлен как NOT
+-- NULL, чтобы его можно было сделать столбцом автоинкремента
+ALTER TABLE tmp_customers
+ALTER COLUMN customerid
+SET NOT NULL;
+
+-- Делаем автоинкремент:
+ALTER TABLE tmp_customers
+ALTER COLUMN customerid
+ADD GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 7);
+
+
+-- Вставляем строчку:
+INSERT INTO tmp_customers
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+-- Проверяем: 
+SELECT * FROM tmp_customers;
+
+
+-- Очистим таблицу через DELETE 
+DELETE FROM tmp_customers;
+
+-- и снова вставим ту же строку:
+INSERT INTO tmp_customers
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+-- Проверяем:
+SELECT * FROM tmp_customers;
+
+
+-- Очистим таблицу через TRUNCATE и снова вставим ту же строку:
+TRUNCATE TABLE tmp_customers;
+INSERT INTO tmp_customers
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+
+-- Проверяем:
+SELECT * FRoM tmp_customers;
+
+-- Очистим таблицу через TRUNCATE с параметром и снова протестируем:
+TRUNCATE TABLE tmp_customers RESTART IDENTITY;
+
+INSERT INTO tmp_customers
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+-- Проверяем: 
+SELECT * FROM tmp_customers;
+
+
+
+-- Если хотим совсем его обнулить, то можно выполнить следующее:
+ALTER TABLE tmp_customers
+ALTER COLUMN customerid
+DROP IDENTITY;
+
+ALTER TABLE tmp_customers
+ALTER COLUMN customerid
+ADD GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 );
+
+TRUNCATE TABLE tmp_customers RESTART IDENTITY;
+
+INSERT INTO tmp_customers 
+(customerfirstname, customerotherinitials, customerlastname)
+VALUES ('Dmitrij', 'J', 'Vetrov');
+
+-- Проверяем: 
 SELECT * FROM tmp_customers;
