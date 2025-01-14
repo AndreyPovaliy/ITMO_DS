@@ -1,0 +1,7 @@
+customerid,customertitleid,customerfirstname,customerotherinitials,customerlastname,addressid,accountnumber,accounttypeid,clearebalance,unclearebalance,dateadded
+1,3,Leonard,,Lobel,145,53431993       ,1,$437.97,-$10.56,
+2,1,Andrew,J.,Brust,133,18176111       ,1,$200.00,$2.00,
+3,3,Leonard,,Lobel,145,53431993       ,1,$437.97,-$10.56,
+4,3,Bernie,I,McGee,314,65368765       ,1,"$6,653.11",$0.00,
+5,2,Julie,A,Dewson,2134,81625422       ,1,$53.32,-$12.21,
+6,1,Kirsty,,Hull,4312,96565334       ,1,"$1,266.00",$10.32,
