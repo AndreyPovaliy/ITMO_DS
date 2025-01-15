@@ -34,3 +34,4 @@
 - [ЛАБОРАТОРНАЯ РАБОТА 5_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_5/lesson_5_2.sql)
 - [ЛАБОРАТОРНАЯ РАБОТА 6](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_6/lesson_6.sql)
 - [ЛАБОРАТОРНАЯ РАБОТА 8](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_8)
+- [Демонстрация для зачета](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/ScreenShots)
