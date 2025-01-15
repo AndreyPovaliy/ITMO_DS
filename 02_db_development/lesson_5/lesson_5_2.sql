@@ -126,5 +126,4 @@ JOIN "CustomerDetails". financialproducts AS fp
 UPDATE "CustomerDetails".customers
 SET customerlastname = 'Brusten'
 WHERE customerlastname = 'Brust';
-
 SELECT * FROM "CustomerDetails".customers;
