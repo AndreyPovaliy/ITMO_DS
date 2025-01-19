@@ -4,34 +4,7 @@
 гр.124/14 - [Программа "Python для анализа данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main)
 
 
-[1. Дисциплина "Основы программирования и алгоритмизации"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/01_programming_basics), доцент Осипов Никита Алексеевич:											
-  - [п. 1.2-1.4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/01_Задания_по_курсу_ПовалийАА.docx)
-  - [п.1.5](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/use_case.puml)
-  - [п.1.6](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/diag_class.puml)
- - [Тд](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/data_types.py)
- - [р1](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/work_dt.py)
- - [р2](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/work_dt.py)
- - [dC](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/demoCost_задание.py)
- - [Y](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/Year_постановка%20задачи.py)
- - [р3](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/conditional.py)
- - [П2](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/program_step2.py)
- - [р4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/cycles.py)
- - [р5](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/list_dict.py)
- - [П3](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/program_step3.py)
- - [р6](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/functions.py)
- - [р7](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/random_statistics.py)
- - [П4](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/program_step4.py)
- - [П2-П4 реализация полки магазин](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/01_programming_basics/program_step.py)
+[1. Дисциплина "Основы программирования и алгоритмизации"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/01_programming_basics/01_programming_basics.md), доцент Осипов Никита Алексеевич:											
+
  
-[2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development), ст. Ямщиков Денис Викторович:	
-- [ЛАБОРАТОРНАЯ РАБОТА 1_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
-- [ЛАБОРАТОРНАЯ РАБОТА 1_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
-- [ЛАБОРАТОРНАЯ РАБОТА 2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_2/lesson_2.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 3](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_3/lesson_3.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 4_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_4/lesson_4_1.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 4_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_4/lesson_4_2.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 5_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_5/lesson_5_1.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 5_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_5/lesson_5_2.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 6](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_6/lesson_6.sql)
-- [ЛАБОРАТОРНАЯ РАБОТА 8](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_8)
-- [Демонстрация для зачета](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/ScreenShots)
+[2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/02_db_development.md), ст. Ямщиков Денис Викторович.

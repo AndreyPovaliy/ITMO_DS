@@ -1,0 +1,12 @@
+[2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development), ст. Ямщиков Денис Викторович:	
+- [ЛАБОРАТОРНАЯ РАБОТА 1_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
+- [ЛАБОРАТОРНАЯ РАБОТА 1_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
+- [ЛАБОРАТОРНАЯ РАБОТА 2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_2/lesson_2.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 3](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_3/lesson_3.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 4_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_4/lesson_4_1.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 4_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_4/lesson_4_2.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 5_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_5/lesson_5_1.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 5_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_5/lesson_5_2.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 6](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_6/lesson_6.sql)
+- [ЛАБОРАТОРНАЯ РАБОТА 8](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_8)
+- [Демонстрация для зачета](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/ScreenShots)
