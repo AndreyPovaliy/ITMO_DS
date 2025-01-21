@@ -1,0 +1,2 @@
+# запусить
+Rscript rescuer.R 

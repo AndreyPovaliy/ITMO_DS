@@ -1,4 +1,4 @@
-[2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development), ст. Ямщиков Денис Викторович:	
+[2. Дисциплина "Разработка и проектирование баз данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development), старший преподаватель Ямщиков Денис Викторович:	
 - [ЛАБОРАТОРНАЯ РАБОТА 1_1](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
 - [ЛАБОРАТОРНАЯ РАБОТА 1_2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_1)
 - [ЛАБОРАТОРНАЯ РАБОТА 2](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/lesson_2/lesson_2.sql)

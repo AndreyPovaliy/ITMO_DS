@@ -1,0 +1,1 @@
+Rscript examen_sakuro.R 
