@@ -1,7 +1,7 @@
 -- создать базу
 CREATE DATABASE "market_db"
     WITH
-    OWNER = postgres
+    OWNER = andreypovaliy
     ENCODING = 'UTF8'
     LC_COLLATE = 'C'
     LC_CTYPE = 'C'
@@ -11,7 +11,7 @@ CREATE DATABASE "market_db"
     
 -- создать схему
 CREATE SCHEMA IF NOT EXISTS "MarketDetails"
-    AUTHORIZATION  postgres;
+    AUTHORIZATION  andreypovaliy;
     
 -- создать таблицы
 CREATE TABLE "MarketDetails".categories (
@@ -92,8 +92,8 @@ COPY "MarketDetails".categories
   DELIMITER ','
   CSV HEADER;
   
-COPY "MarketDetails".markets_categories
-  FROM '/Users/andreypovaliy/Documents/Education/ITMO_DS/03_python_basic/exam_task/transform/markets_categories.csv'
+COPY "MarketDetails".cities
+  FROM '/Users/andreypovaliy/Documents/Education/ITMO_DS/03_python_basic/exam_task/transform/cities.csv'
   DELIMITER ','
   CSV HEADER;
 
@@ -101,9 +101,13 @@ COPY "MarketDetails".markets
   FROM '/Users/andreypovaliy/Documents/Education/ITMO_DS/03_python_basic/exam_task/transform/markets.csv'
   DELIMITER ','
   CSV HEADER;
-
-COPY "MarketDetails".sities
-  FROM '/Users/andreypovaliy/Documents/Education/ITMO_DS/03_python_basic/exam_task/transform/sities.csv'
+  
+COPY "MarketDetails".markets_categories
+  FROM '/Users/andreypovaliy/Documents/Education/ITMO_DS/03_python_basic/exam_task/transform/markets_categories.csv'
   DELIMITER ','
   CSV HEADER;
+
+
+
+
   
