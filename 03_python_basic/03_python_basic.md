@@ -19,12 +19,12 @@
 
 2.  [Зачетное задание](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/)
 
-    [условие](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/condition.txt)
+    [условие](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/condition.txt)
 
-    [полученные данные](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/extract)
+    [полученные данные](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/extract)
     
-    [преобразование  данных](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/transform)
+    [преобразование  данных](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/transform)
     
-    [загрузка  данных](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/load)
+    [загрузка  данных](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/load)
     
-    [запуск программы](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/run.bash)
+    [запуск программы](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/run.bash)
