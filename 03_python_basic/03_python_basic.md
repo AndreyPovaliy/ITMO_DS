@@ -17,7 +17,7 @@
     [решение на R](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/tasks/examen_sakuro/R)
     
 
-2.  [Зачетное задание](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/examen_task/)
+2.  [Зачетное задание](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/)
 
     [условие](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/exam_task/condition.txt)
 
