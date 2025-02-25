@@ -6,9 +6,9 @@
 
 [Задание 1.3]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_3.txt")
 
-[Задание 1.4]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_4.txt")
+[Задание 1.4]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_4.py")
 
-[Задание 1.5]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_5.txt")
+[Задание 1.5]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_5.py")
 
 Модуль 2. Законы распределения случайных величин.
 
