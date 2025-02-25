@@ -1,5 +1,8 @@
+
 [Задание 0]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt")
+
 Модуль 1. Базовые понятия статистики.
+
 [Задание 1.1]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_1.txt")
 
 [Задание 1.2]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_1_2.txt")
@@ -19,6 +22,7 @@
 [Задание 2.3]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt")
 
 Модуль 3. Основы математической статистики.
+
 [Задание 3.1]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt")
 
 [Задание 3.2]("https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt")
