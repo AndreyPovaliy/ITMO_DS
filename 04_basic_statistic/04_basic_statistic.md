@@ -1,4 +1,3 @@
-
 [Задание 0](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
 
 Модуль 1. Базовые понятия статистики.
@@ -23,9 +22,21 @@
 
 Модуль 3. Основы математической статистики.
 
-[Задание 3.1 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 3.1 (на Python без библиотек)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_1.py)
 
-[Задание 3.2 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 3.1 (на R стандартная библиотека)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_1.R)
+
+[Задание 3.2 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_2.R)
+
+![](histogram_3_2_by_R.png){width="229"}
+
+![](polygon_3_2_by_R.png){width="286" height="296"}
+
+[Задание 3.2 (на Python)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_2.py)
+
+![](histogram_3_2_by_Python.png){width="348"}
+
+![](polygon_3_2_by_Python.png){width="328" height="331"}
 
 [Задание 3.3 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
 
