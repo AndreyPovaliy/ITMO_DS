@@ -38,9 +38,17 @@
 
 ![](polygon_3_2_by_Python.png){width="328" height="331"}
 
-[Задание 3.3 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 3.3 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_3.R)
 
-[Задание D (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 3.3 (на Python)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_3.py)
+
+[Задание D](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_D.py)
+
+![](hist_D_one_num.png){width="348"}
+
+![](hist_D_two_num.png){width="348"}
+
+![](hist_D_three_num.png){width="348"}
 
 Модуль 4. Основы исследовательского анализа.
 
