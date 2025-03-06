@@ -28,15 +28,15 @@
 
 [Задание 3.2 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_2.R)
 
-![](histogram_3_2_by_R.png){width="229"}
+![](histogram_3_2_by_R.png)
 
-![](polygon_3_2_by_R.png){width="286" height="296"}
+![](polygon_3_2_by_R.png)
 
 [Задание 3.2 (на Python)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_2.py)
 
-![](histogram_3_2_by_Python.png){width="348"}
+![](histogram_3_2_by_Python.png)
 
-![](polygon_3_2_by_Python.png){width="328" height="331"}
+![](polygon_3_2_by_Python.png)
 
 [Задание 3.3 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_3_3.R)
 
@@ -44,22 +44,32 @@
 
 [Задание D](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_D.py)
 
-![](hist_D_one_num.png){width="348"}
+![](hist_D_one_num.png)
 
-![](hist_D_two_num.png){width="348"}
+![](hist_D_two_num.png)
 
-![](hist_D_three_num.png){width="348"}
+![](hist_D_three_num.png)
 
 Модуль 4. Основы исследовательского анализа.
 
-[Задание 4.1 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 4.2 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_4_2.R)
 
-[Задание 4.2 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+![](cor_test_4_2_by_R.png)
 
-[Задание 4.3 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 4.3 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_4_3.R)
 
-[Задание 4.4 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+![](linear_regression_4_3_by_R.png)
 
-[Задание П (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+[Задание 4.4 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
 
-[Задание Z (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_0.txt)
+![](linear_regression_4_4_by_R.png)
+
+[Задание 4.1 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_4_1.R)
+
+[Задание 4.5 (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_4_5.R)
+
+![](row_4_5_by_R.png)
+
+[Задание П (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_P.R)
+
+[Задание Z (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_R.R)
