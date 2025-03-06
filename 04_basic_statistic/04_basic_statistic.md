@@ -72,4 +72,4 @@
 
 [Задание П (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_P.R)
 
-[Задание Z (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_R.R)
+[Задание Z (на R)](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/task_Z.R)
