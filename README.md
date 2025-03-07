@@ -10,3 +10,5 @@
 [3. Программирование на Python (базовые возможности)"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/03_python_basic/03_python_basic.md), старший преподаватель Кузьмин Константин Михайлович
 
 [4. Дисциплина "Основы статистики"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/04_basic_statistic/04_basic_statistic.md), доцент Осипов Никита Алексеевич
+
+[5. Дисциплина "Python для анализа данных"](https://github.com/AndreyPovaliy/ITMO_DS/tree/main/02_db_development/05_python_for_data_analysis.md), старший преподаватель Гайдукевич Иван Евгеньевич
