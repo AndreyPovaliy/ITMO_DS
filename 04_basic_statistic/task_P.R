@@ -22,8 +22,20 @@ chisq.test(table(row_of_ponts)) #X-squared = 5.7741, df = 5, p-value = 0.3288
 library(readr)
 task_P2 <- read_csv("04_basic_statistic/task_P2.csv")
 
-chisq.test(task_P2$`Число заболевших`,task_P2$`Число не заболевших`) # X-squared = 6, df = 4, p-value = 0.1991
+task_P2$sum <- task_P2$`Число заболевших`+ task_P2$`Число не заболевших`
+df_p2 <- data.frame(
+  group <- c(rep("1",task_P2$sum[1]),rep("2",task_P2$sum[2]),rep("3",task_P2$sum[3])),
+  outcome <- c(rep("1",task_P2$`Число заболевших`[1]),
+               rep("0",task_P2$`Число не заболевших`[1]),
+               rep("1",task_P2$`Число заболевших`[2]),
+               rep("0",task_P2$`Число не заболевших`[2]),
+               rep("1",task_P2$`Число заболевших`[3]),
+               rep("0",task_P2$`Число не заболевших`[3]))
+               
+)
+colnames(df_p2) <- c("group","outcome")
+chisq.test(table(df_p2)) # X-squared = 40.073, df = 2, p-value = 1.988e-09
 
 # вывод:
-#  по представленным данным убедительных доказателств, что 
-# вода является причиной заражения нет
+#  по представленным данным есть убедительные доказателства, что 
+# вода является причиной заражения
