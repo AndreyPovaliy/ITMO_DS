@@ -22,7 +22,7 @@
 
 [Практическое задание №3 (Python)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_3_pandas_melt.ipynb)
 
-[Практическое задание №4 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_4_join_datasets.ipynb)
+[Практическое задание №4 (Python)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_4_join_datasets.ipynb)
 
 [Практическое задание №5 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_5_pivot_table.ipynb)
 
