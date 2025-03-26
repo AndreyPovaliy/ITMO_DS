@@ -12,9 +12,13 @@
 
 **Практические задания**
 
-[Практическое задание №1](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_1_numpy.ipynb)
+[Практическое задание №1 (Python)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_1_numpy.ipynb)
 
-[Практическое задание №2 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_2_pandas_query.ipynb)
+[Практическое задание №1 (R)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_1_R.ipynb)
+
+[Практическое задание №2 (Python)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_2_pandas_query.ipynb)
+
+[Практическое задание №2 (R)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_2_query_R.ipynb)
 
 [Практическое задание №3 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_3_pandas_melt.ipynb)
 
