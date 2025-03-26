@@ -1,0 +1,1 @@
+rm -r ./05_python_for_data_analysis/train/tasks/*
