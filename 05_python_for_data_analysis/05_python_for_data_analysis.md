@@ -20,6 +20,8 @@
 
 [google](https://drive.google.com/file/d/1hFzjPlsDW_G5wVYjtxusEcGyN9J4LsCz/view?usp=share_link)
 
+[Лабораторная работа 6](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/labs/Lab_7__classification.ipynb)
+
 **Практические задания**
 
 [Практическое задание №1 (Python)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_1_numpy.ipynb)
@@ -50,6 +52,8 @@
 
 [google](https://drive.google.com/file/d/1J2QlTXusTdy0Lb07dQ9bRXuoA9OUfLwd/view?usp=share_link)
 
-[Практическое задание №6 (не выполнено)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_6_clustering.ipynb)
+[Практическое задание №6 (в процессе)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_6_clustering.ipynb)
 
 [google](https://drive.google.com/file/d/1J2QlTXusTdy0Lb07dQ9bRXuoA9OUfLwd/view?usp=share_link)
+
+[Контрольное задание (в процессе)]()
