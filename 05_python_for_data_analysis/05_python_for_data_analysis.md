@@ -52,7 +52,7 @@
 
 [google](https://drive.google.com/file/d/1J2QlTXusTdy0Lb07dQ9bRXuoA9OUfLwd/view?usp=share_link)
 
-[Практическое задание №6 (в процессе)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_6_clustering.ipynb)
+[Практическое задание №6 (ВОПРОС!)](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/tasks/task_6_clustering.ipynb)
 
 [google](https://drive.google.com/file/d/1J2QlTXusTdy0Lb07dQ9bRXuoA9OUfLwd/view?usp=share_link)
 
