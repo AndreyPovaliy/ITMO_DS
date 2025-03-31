@@ -20,7 +20,9 @@
 
 [google](https://drive.google.com/file/d/1hFzjPlsDW_G5wVYjtxusEcGyN9J4LsCz/view?usp=share_link)
 
-[Лабораторная работа 6](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/labs/Lab_7__classification.ipynb)
+[Лабораторная работа 6](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/labs/Lab_6_classification.ipynb)
+
+[Лабораторная работа 7](https://github.com/AndreyPovaliy/ITMO_DS/blob/main/05_python_for_data_analysis/labs/Lab_7__ensemble.ipynb)
 
 **Практические задания**
 
