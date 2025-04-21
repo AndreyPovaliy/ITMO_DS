@@ -4,7 +4,7 @@ from dash import dcc
 def create_layout():
     return dbc.Container([
         dbc.NavbarSimple(
-            brand="Загразнение воздуха",
+            brand="Состояние воздуха",
             brand_href="#",
             color="primary",
             dark=True,
@@ -12,7 +12,7 @@ def create_layout():
         ),
         dbc.Row([
             dbc.Col(dbc.Card(id='weather-output', body=True), width=6, xs=12, md=6), 
-            dbc.Col([dbc.Input(id = "city-input", type = "text", placeholder = "Введите город")], width = 6, xs = 12, md = 6),
+            dbc.Col([dbc.Input(id = "city-input", type = "text", placeholder = "Введите город", value='Москва')], width = 6, xs = 12, md = 6),
             ], className="mb-3"), 
  
         dbc.Row([
