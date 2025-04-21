@@ -4,7 +4,7 @@
 
 [Ссылка на отдельный репозиторий](https://github.com/AndreyPovaliy/polution_dash)
 
-[запуск локально  в терминале](https://github.com/AndreyPovaliy/polution_dash/run.bash)
+[запуск локально  в терминале](https://github.com/AndreyPovaliy/polution_dash/blob/main/run.bash)
 
 [Задание No2. Deploy «Дашборд состояния воздуха в городе»](http://217.18.63.8/)
 
